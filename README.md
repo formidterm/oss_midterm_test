@@ -9,3 +9,7 @@
 **#4** modified by gunoong011, for markdown syntax, pull request
 
 **#5** pull request success, modified by formidterm
+
+**#6** remote pull success, modified by gunoong011
+
+**#7** rebase test, modified by gunoong011
